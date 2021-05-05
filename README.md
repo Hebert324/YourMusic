@@ -2,6 +2,8 @@
  
 ### Este e um projeto aonde desenvolmemos um site com um player de audio para musicas.
 
+<img alt="gif" src="https://github.com/Hebert324/yourmusic/blob/main/github/yourmusic.gif">
+
 ### Acesse o projeto aqui: <a href="https://yourmusic.netlify.app/">YourMusic</a>
 
 ## :rocket: Tecnologias:
