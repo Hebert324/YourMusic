@@ -1,4 +1,4 @@
-# 🎧YourMsic
+<h1 align="center">🎧YourMsic</h1>
  
 ### Este e um projeto aonde desenvolvemos um site com um player de audio para músicas.
 
