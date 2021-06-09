@@ -6,9 +6,7 @@
 
 ### Acesse o projeto aqui: <a href="https://yourmusic.netlify.app/">YourMusic</a>
 
-## :rocket: Tecnologias:
-
-#### Esse projeto foi desenvolvido com as seguintes tecnologias:
+## :rocket: Tecnologias Utilizadas:
 
 ✔️HTML
 
