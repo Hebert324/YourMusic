@@ -8,8 +8,8 @@
 
 ## :rocket: Tecnologias Utilizadas:
 
-✔️HTML
+- HTML
 
-✔️JavaScript
+- JavaScript
 
-✔️Utilizamos o framework <a href="https://materializecss.com">Materialize</a> para adicionarmos alguns estilos no CSS
+- Utilizamos o framework <a href="https://materializecss.com">Materialize</a> para adicionarmos alguns estilos no CSS
